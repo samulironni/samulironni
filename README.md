@@ -1,6 +1,6 @@
 <h1>Hi!
 
-Here is some examples of projects and exercises I have made.</h1>
+Here is some examples of projects and exercises I have done.</h1>
 
 <h2>There are:
 <br><br>
