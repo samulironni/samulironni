@@ -10,5 +10,5 @@ Here is some projects and exercises I have done.</h1>
 <br><br>
 <a href="https://github.com/samulironni/portfolio/tree/main/ML%20Projects/Text%20Summarization">Text Summarization with BART model (ENG to ENG and ENG to FI)</a>
 <br><br>
-<a href="https://github.com/samulironni/portfolio"> Whole portfolio</a>  
+<a href="https://github.com/samulironni/portfolio"> Link to whole portfolio</a>  
 </h2>
