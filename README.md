@@ -1,11 +1,14 @@
 <h1>Hi!
 
-Here is some examples of projects and exercises I have done.</h1>
+Here is some projects and exercises I have done.</h1>
 
-<h2>There are:
+<h2>Examples:
 <br><br>
-<a href="https://github.com/samulironni/portfolio/tree/main/Robot%20Project%20Java">Lejos EV3 Robot Project (Java programming)</a>
+<a href="https://github.com/samulironni/portfolio/tree/main/Robot%20Project%20Java">Lejos EV3 Robot Project (Java)</a>
 <br><br>  
-<a href="https://github.com/samulironni/portfolio/tree/main/Python%20ipynb">Python Notebooks of Data Analysis and Predictions</a> 
+<a href="https://github.com/samulironni/portfolio/tree/main/AI_projects/2048_Game_AI">AI Development for 2048 game (results in Excel files)</a> 
 <br><br>
-<a href="https://github.com/samulironni/portfolio/tree/main/Robot%20Framework">Robot Framework Exercises</a></h2>
+<a href="https://github.com/samulironni/portfolio/tree/main/ML%20Projects/Text%20Summarization">Text Summarization with BART model (ENG to ENG and ENG to FI)</a>
+<br><br>
+<a href="https://github.com/samulironni/portfolio"> All projects</a>  
+</h2>
